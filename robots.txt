@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-vercel-url.vercel.app/sitemap.xml
+Sitemap: https://riman-icd-referral-code-ireland.vercel.app/sitemap.xml
